@@ -1,28 +1,51 @@
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=Software+Developer;Python+Developer;Java+Programmer)
-# ebra94.born
-A work-in-progress software project developed using Python and Java. This repository is part of my learning journey where I experiment with programming concepts, backend logic, and application development.
 # Hi 👋 I'm Ebra
-  
-🌍 Passionate about programming  
-🚀 Currently learning Python and Java  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&lines=Software+Developer;Python+&+Java+Developer;Open+Source+Enthusiast)
+
+---
 
 ## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on programming projects
-- 🌱 I’m learning backend development
-- 💡 Interested in building software solutions
-- 🎯 Goal: Become a professional software developer
+- 🔭 I’m currently working on programming projects  
+- 🌱 I’m learning backend development and algorithms  
+- 💡 Passionate about building software solutions  
+- 🎯 Goal: Become a professional full-stack developer
 
 ---
 
 ## 🛠 Skills
 
-- Python
-- Java
-- Git
-- Problem Solving
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
-GitHub: https://github.com/yourusername
+---
+
+## 📂 Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| ebra94.born | Work-in-progress software project | Python, Java | [GitHub](https://github.com/YOURUSERNAME/ebra94.born) |
+| Future Project | Coming soon | Python, Java | - |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURPROFILE)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
