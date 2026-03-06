@@ -5,7 +5,6 @@ A work-in-progress software project developed using Python and Java. This reposi
 🌍 Passionate about programming  
 🚀 Currently learning Python and Java  
 
----
 
 ## 🧑‍💻 About Me
 
