@@ -47,4 +47,5 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=radical)
+https://www.linkedin.com/in/ebrahim-kassaw-8706923a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0uO%2B7CSxSpKG%2BshhBfCYXA%3D%3D
 
